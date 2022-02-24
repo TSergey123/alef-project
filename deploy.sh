@@ -23,4 +23,3 @@ git push -f git@github.com:tsergey123/tsergey123.github.io.git master
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 cd -
-
